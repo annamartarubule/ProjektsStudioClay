@@ -38,6 +38,12 @@ h1 {
 
 /* sakumlapas pogas izkartojums */
 .pogas1{
+  margin-left: 345px;
+}
+.pogas2{
+  margin-left: 355px;
+}
+.pogas3{
   margin-left: 365px;
 }
 
@@ -68,10 +74,10 @@ h1 {
 
 .overlay-text2 {
     position: absolute;
-    top: 4%; /* Vertically center the text */
-    left: 45%; /* Horizontally center the text */
+    top: 4%;
+    left: 45%; 
     right: 50%
-    transform: translate(-40%, -50%); /* Adjust to truly center */
+    transform: translate(-40%, -50%); 
     color:  #722E18;
     font-size: 14px;
     font-weight: bold;
@@ -226,7 +232,7 @@ h1 {
 .cenastekstslapina{
   position: absolute;
   top: 98%;
-  left: 36%;
+  left: 16%;
   right: 50%
   color:  #411d11;
   font-size: 26px;
@@ -235,5 +241,9 @@ h1 {
 
 .auto{
   position: absolute;
- 
 }
+
+.galerijasvideo{
+  margin-left :29%;
+}
+
