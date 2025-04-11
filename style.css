@@ -5,3 +5,235 @@ html {
 body {
   background-color: #F7CF8E;
 }
+/* sakumlapas lielais logo */
+.move-rightlogo {
+    margin-left: 400px;
+}
+/* katras lapas dekoracijas bilde */
+.move-atteli{
+  position: relative;
+  margin-left:1050px;
+}
+/* galerijas foto izkartojums */
+.move-galerijasfoto{
+  margin-left: 300px;
+  height: 1000px;
+  width: 690px;
+}
+h1 {
+  color: #722E18
+}
+/* sakumlapas teksta noformejums */
+.tekstaformejums{
+  text-align:relative;
+  text-indent; 30px;
+  padding:5px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 1px;
+  
+}
+.overlay-text {
+  color: #722E18
+}
+
+/* sakumlapas pogas izkartojums */
+.pogas1{
+  margin-left: 365px;
+}
+
+
+.image-container {
+  position: relative;
+  width: 100%; 
+  max-width: 500px; 
+  margin-left: 350px;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto; 
+}
+
+.overlay-text1 {
+    position: absolute;
+    top: 20%;
+    left: 50%; 
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 14px;
+    font-weight: bold; 
+   text-align:center;
+}
+
+.overlay-text2 {
+    position: absolute;
+    top: 4%; /* Vertically center the text */
+    left: 45%; /* Horizontally center the text */
+    right: 50%
+    transform: translate(-40%, -50%); /* Adjust to truly center */
+    color:  #722E18;
+    font-size: 14px;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+.overlay-text3 {
+    position: absolute;
+    top: 28%; 
+    left: 46%; 
+    right: 50%
+    transform: translate(-40%, -50%); 
+    color:  #722E18;
+    font-size: 14px;
+    font-weight: bold;
+   text-align:center;
+}
+
+.overlay-text4 {
+    position: absolute;
+    top: 56%; 
+    left: 52%; 
+    right: 50%
+    transform: translate(-40%, -50%); 
+    color:  #722E18;
+    font-size: 14px;
+    font-weight: bold;
+   text-align:center;
+
+}
+.overlay-text5 {
+    position: absolute;
+    top: 80%;
+    left: 43%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 14px;
+    font-weight: bold;
+   text-align:center;
+
+}
+
+
+.virsrakstuoverlay{
+  position: absolute;
+  top: 10%; 
+  left: 13%;
+}
+
+
+.lapupogas{
+  position: absolute;
+    top: 23%;
+    left: 13%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    
+}
+.cenradispoga{
+  position: absolute;
+  top: 23%;
+  left: 23%;
+  right: 50%
+  transform: translate(-40%, -50%);
+}
+
+.nodarbibasatteli{
+  margin-left: 150px;
+}
+
+.overlay-text00{
+  position:absolute;
+  top: 47%;
+    left: 60%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+  
+}
+.overlay-text01{
+  position:absolute;
+  top: 127%;
+    left: 61%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+   
+}
+.overlay-text02{
+  position:absolute;
+  top: 210%;
+    left: 60%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+   
+}
+.move-atteli1{
+  position:absolute;
+   margin-left:1050px;
+}
+.cenradisbackground{
+  margin-left: 100px;
+  margin-top: 150px;
+}
+
+.cenaradislapina {
+  position: absolute;
+  margin-top: 890px;
+  margin-left: 96px;
+}
+
+.cenasteksts1{
+  position:absolute;
+  top: 37%;
+    left: 13%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cenasteksts2{
+  position:absolute;
+  top: 54%;
+    left: 13%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cenasteksts3{
+  position:absolute;
+  top: 73%;
+    left: 13%;
+    right: 50%
+    transform: translate(-40%, -50%);
+    color:  #722E18;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.cenastekstslapina{
+  position: absolute;
+  top: 98%;
+  left: 36%;
+  right: 50%
+  color:  #411d11;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.auto{
+  position: absolute;
+ 
+}
