@@ -38,13 +38,13 @@ h1 {
 
 /* sakumlapas pogas izkartojums */
 .pogas1{
-  margin-left: 345px;
+  margin-left: 445px;
 }
-.pogas2{
-  margin-left: 355px;
-}
-.pogas3{
-  margin-left: 365px;
+button{
+  margin-right: 30px;
+  color: #722E18;
+  background-color:#F7CF8E;
+  border: none;
 }
 
 
@@ -239,9 +239,7 @@ h1 {
   font-weight: bold;
 }
 
-.auto{
-  position: absolute;
-}
+
 
 .galerijasvideo{
   margin-left :29%;
